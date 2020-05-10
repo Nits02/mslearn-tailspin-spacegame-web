@@ -1,3 +1,4 @@
+# This is the YAML file generated from the Azure Dev Ops
 trigger:
 - '*'
 
